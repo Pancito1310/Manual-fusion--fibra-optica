@@ -77,9 +77,16 @@ fusion-fibra-optica/
 * **Fotografías:** extraídas del documento Word proporcionado.
 * **Criterio de edición:** organizar la información para GitHub sin eliminar recomendaciones, advertencias, consejos, tablas ni kaomojis del documento fuente.
 
-## Referencias
-
-Las referencias técnicas completas se encuentran en [docs/referencias\_tecnicas.md](docs/referencias_tecnicas.md) y en el [manual completo](MANUAL_TECNICO.md).
+## Referencias técnicas
+Consultar siempre la versión vigente del manual específico del equipo y las fichas de seguridad de los productos utilizados. Las siguientes fuentes respaldan las recomendaciones generales de seguridad y mantenimiento:
+The Fiber Optic Association (FOA) – Fiber Optic Safety — https://www.thefoa.org/tech/ref/safety/safe.html
+NECA/FOA 301 – Standard for Installing and Testing Fiber Optics (precauciones de seguridad) — https://www.thefoa.org/tech/ref/1pstandards/NECA301-16_P.pdf
+Corning – Standard Recommended Procedure 003-534 (precauciones de seguridad) — https://www.corning.com/catalog/coc/documents/standard-recommended-procedures/003-534.pdf
+Fujikura Europe – How to clean your fusion splicer — https://www.europe.fujikura.com/insights/how-to-clean-your-fusion-splicer/
+Fujikura – Limpieza de cleaver CT50 — https://www.optic-product.fujikura.com/support-resources_services/fusion-splicer-maintenance/how-to-clean-the-clamp-pad-anvil-and-cleaver-blade-of-ct50/
+Fujikura – Limpieza de guías V y mordazas — https://www.optic-product.fujikura.com/support-resources_services/fusion-splicer-maintenance/how-to-clean-vgroove-and-fiber-clamp-chips-of-90s/
+ITU-T G.652 – Characteristics of a single-mode optical fibre and cable — https://www.itu.int/rec/T-REC-G.652/en
+ITU-T G.651.1 – Characteristics of a 50/125 µm multimode graded index optical fibre cable — https://www.itu.int/rec/T-REC-G.651.1/en
 
 \---
 
