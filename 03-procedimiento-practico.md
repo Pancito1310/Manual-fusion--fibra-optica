@@ -75,7 +75,3 @@ Retira el empalme con cuidado y déjalo enfriar en la bandeja indicada. No lo do
 - No limpiar electrodos, lentes o guías con métodos improvisados; seguir el manual del equipo.
 - No abrir la cubierta durante el arco.
 - Si se repite un error, detener el proceso y diagnosticar; no repetir ciclos indefinidamente.
-
-## 3.2 Fotografías de la actividad
-
-Las fotografías originales están disponibles en la carpeta [`images/`](../images/). Se incluyen como evidencia visual de la actividad presencial; consulta el README para ver la galería completa.
