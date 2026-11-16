@@ -90,5 +90,5 @@ ITU-T G.651.1 – Characteristics of a 50/125 µm multimode graded index optical
 
 \---
 
-**Cierre (づ｡◕◕ ‿ ｡)づ**  
+**Cierre (づ｡◕‿◕｡)づ**  
 Un buen empalme no depende de memorizar números universales: depende de identificar la fibra, seleccionar el programa correcto, preparar extremos limpios y bien cortados, seguir el fabricante y verificar el resultado.
