@@ -41,5 +41,3 @@ Antes de preparar los extremos, identifica la etiqueta del cable, la ficha técn
 6. Registrar el programa utilizado y cualquier advertencia del equipo.
 
 **Criterio de aceptación:** Los límites de pérdida, ángulo de corte, fuerza de prueba y criterios de rechazo deben venir de la especificación del proyecto, del fabricante o del estándar aplicable. Si no están definidos, detenerse y solicitar el criterio al responsable técnico.
-
-![Fotografía original de la actividad](../images/foto_04.jpg)
