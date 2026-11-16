@@ -1,13 +1,13 @@
-# 4. Verificación, mantenimiento y registro
+# 4. Verificación, mantenimiento y registro (´｡• ᵕ •｡`)
 
-## 4.1 Inspección visual y del equipo
+## 4.1 Inspección visual y del equipo ಠ_ಠ
 
 - Confirmar que el empalme no presente burbujas, grietas, deformaciones o desplazamientos evidentes.
 - Confirmar que el manguito esté centrado, completamente contraído y sin bordes que puedan engancharse.
 - Registrar el mensaje final y la pérdida estimada por la fusionadora.
 - Rechazar y rehacer el empalme si el equipo lo indica o si el resultado no cumple el criterio de aceptación establecido.
 
-## 4.2 Medición del enlace
+## 4.2 Medición del enlace (ᵕ—ᴗ—)
 
 La pérdida mostrada por la fusionadora es una estimación basada en la imagen y el algoritmo del equipo. No sustituye la medición del enlace terminado. Según el alcance del trabajo, se puede requerir fuente de luz y medidor de potencia para medir pérdida de inserción, y/o OTDR para caracterizar eventos y localizar anomalías. Los equipos deben estar calibrados y utilizar el método, longitud de onda y referencia definidos por el proyecto.
 
