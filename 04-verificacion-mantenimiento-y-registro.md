@@ -90,4 +90,4 @@ Consultar siempre la versión vigente del manual específico del equipo y las fi
 
 ## Cierre
 
-(づ｡◕‿‿◕｡)づ Un buen empalme no depende de memorizar números universales: depende de identificar la fibra, seleccionar el programa correcto, preparar extremos limpios y bien cortados, seguir el fabricante y verificar el resultado.
+(づ｡◕‿‿◕｡)づ Un buen empalme no depende de memorizar números universales: depende de identificar la fibra, seleccionar el programa correcto, preparar extremos limpios y bien cortados, seguir el fabricante y verificar el resultado. (en las siguientes paginas se mostraran las imagenes de referencias)
