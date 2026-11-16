@@ -55,12 +55,3 @@ Se aplica a fibras de vidrio monomodo y multimodo cuando la fusionadora, los sop
 | Manguito termocontraíble | Consumible de protección. | Protege mecánicamente el empalme. Seleccionar longitud y diámetro compatibles con el soporte y la bandeja. |
 | Pinzas y contenedor de residuos | Accesorios de seguridad. | Manipular y contener fragmentos de vidrio; nunca recogerlos con los dedos. |
 | Medidor de potencia y fuente óptica / OTDR | Instrumentos de prueba. | Verifican el enlace según el alcance del trabajo y el procedimiento de aceptación. |
-
-## 1.6 Fotografías relacionadas
-
-![Fotografía original 01](../images/foto_01.jpg)
-
-![Fotografía original 02](../images/foto_02.jpg)
-
-![Fotografía original 03](../images/foto_03.jpg)
-
