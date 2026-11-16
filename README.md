@@ -4,7 +4,7 @@
 
 Repositorio de documentación técnica sobre una **práctica presencial de preparación, fusión y verificación de fibra óptica**, basada en el manual entregado en formato Word. Está organizado para que estudiantes y operadores principiantes puedan consultar el procedimiento, las precauciones, los materiales, las fallas frecuentes y el registro del trabajo.
 
-> \*\*Enfoque del repositorio:\*\* experiencia práctica realizada presencialmente. No se presenta como una investigación teórica ni se inventan mediciones, parámetros del equipo, resultados o datos que no aparecen en el documento fuente.
+> \*\*Enfoque del repositorio:\*\* experiencia práctica realizada presencialmente. No se presenta como una investigación teórica ni se inventan mediciones, parámetros del equipo, resultados o datos.
 
 ## Contenido principal
 
@@ -52,7 +52,7 @@ La pérdida estimada que muestra la fusionadora no sustituye la medición del en
 ## Cómo utilizar este repositorio
 
 1. Comienza por leer el [manual técnico completo](MANUAL_TECNICO.md).
-2. Consulta las secciones individuales de `docs/` cuando necesites revisar un tema concreto.
+2. Consulta las secciones individuales cuando necesites revisar un tema concreto.
 3. Revisa las fotografías de `images/` como apoyo visual de la práctica presencial.
 4. Utiliza el checklist antes, durante y después del procedimiento.
 5. Completa el registro del trabajo con datos reales de la práctica. No inventes valores que no hayan sido medidos o registrados.
